@@ -1,0 +1,10 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "Movie Recommendation Model",
+  "MLModelCreatorDefinedKey" : {
+    "com.github.apple.coremltools.version" : "8.2",
+    "com.github.apple.coremltools.source" : "scikit-learn==1.5.1"
+  },
+  "MLModelAuthorKey" : "Movie Recommendation App",
+  "MLModelLicenseKey" : "MIT"
+}

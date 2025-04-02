@@ -1,0 +1,84 @@
+{
+  "Inputs" : {
+    "genre_36" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_12" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_10770" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "vote_count" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_53" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_16" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_80" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_9648" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_37" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_27" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "release_year" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_10752" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_10751" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_14" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_28" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_99" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_18" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_878" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_10749" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_10402" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "genre_35" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "popularity" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "vote_average" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Outputs" : {
+    "movie_id" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}
